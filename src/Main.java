@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+import lib.Stock;
+import lib.StockPortfolio;
+
 public class Main {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
